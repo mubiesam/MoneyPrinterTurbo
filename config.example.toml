@@ -1,7 +1,7 @@
 [app]
 video_source = "pexels" # "pexels" or "pixabay"
 
-# 是否隐藏配置面板
+# 是否隐藏配置面板Sam
 hide_config = false
 
 # Pexels API Key
